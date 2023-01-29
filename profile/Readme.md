@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are BCC Backend</h1>
-<h3 align="center">This is the official BCC BE Filkom UB account</h3>
+<h3 align="center">This is the official BCC BE FILKOM UB account</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
